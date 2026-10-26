@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Loby.unity
+    guid: 3199cd821622de74d8005ec66da0a29e
+  - enabled: 1
     path: Assets/Scenes/Arena.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: fe1280388a63a53438418934f362ee14, type: 2}

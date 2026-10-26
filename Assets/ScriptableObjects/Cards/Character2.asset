@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff7e88f30754ea48978acf107bfef32, type: 3}
+  m_Name: Character2
+  m_EditorClassIdentifier: 
+  cardName: Stick
+  icon: {fileID: 21300000, guid: 357dd2c9972cffb4f89ded4eb090d26b, type: 3}
+  cost:
+    element: {fileID: 11400000, guid: 692149b3d2996c446a1ca39f0e0fbbe9, type: 2}
+    elementAmount: 1
+    genericAmount: 1
+  description: 
+  element: {fileID: 11400000, guid: 692149b3d2996c446a1ca39f0e0fbbe9, type: 2}
+  maxHp: 10
+  abilities:
+  - {fileID: 11400000, guid: ff5a9a41e6a608a4ba7f90a77f3f40d0, type: 2}

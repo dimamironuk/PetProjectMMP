@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc5596e7aac012642a7e55a305941ada, type: 3}
+  m_Name: Slash
+  m_EditorClassIdentifier: 
+  abilityName: Slash
+  icon: {fileID: 0}
+  description: 
+  cost:
+    element: {fileID: 11400000, guid: 692149b3d2996c446a1ca39f0e0fbbe9, type: 2}
+    elementAmount: 1
+    genericAmount: 1
+  appliedElement: {fileID: 11400000, guid: 692149b3d2996c446a1ca39f0e0fbbe9, type: 2}
+  effects:
+  - {fileID: 11400000, guid: ff6b038754acb8448ae3227926e35062, type: 2}
